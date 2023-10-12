@@ -12,4 +12,4 @@ This is a basic static website using GitHub Pages and markdown syntax.
 
 [Link to GitHub](https://github.com)
 
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png)
+![GitHub Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/2048px-GitHub_Invertocat_Logo.svg.png)
